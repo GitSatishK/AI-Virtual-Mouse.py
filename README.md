@@ -1,1 +1,1 @@
-# AI-Virtual-Mousr
+# AI-Virtual-Mouse Using Hand Gestures
